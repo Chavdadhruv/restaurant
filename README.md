@@ -1,6 +1,5 @@
-Here's a description highlighting the functionality of your Flask-based Restaurant Recommendation System:
+ Restaurant Recommendation System:
 
----
 
 This **Restaurant Recommendation System** built with **Flask** provides users with personalized restaurant suggestions based on budget, cuisine, location, and group size. By leveraging **cosine similarity** to evaluate restaurant features, it identifies top restaurants matching user preferences. The system integrates a **CSV dataset** of restaurant data and utilizes **CountVectorizer** to analyze highlighted features, offering suggestions based on locality and cost considerations.
 
